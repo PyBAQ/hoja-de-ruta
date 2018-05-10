@@ -41,3 +41,7 @@ Es un taller que se realiza cada año con el fin de promover el empoderamiento d
 ### Mercadeo digital
 
 Con el fin de llegar a más personas de la ciudad de Barranquilla y alrededores, debe haber un plan que garantice que lo que hacemos, es de público conocimiento de la comunidad costeña.
+
+### Formación emprendedora
+
+Este es uno de los programas más nuevos. La idea es formar a los voluntarios en varias habilidades por medio de tareas que normalmente se realizarían en una empresa. A través del voluntariado, los integrantes del equipo de logística de Python Barranquilla desarrollaran habilidades duras y blandas como, manejo del tiempo, comunicación, gestión de proyectos, ventas, publicidad, hablar en público, atención al cliente, contribuir y/o mantener repositorios de código abierto, resolver dudas o preguntas de código, redacción y trabajo en equipo, entre otras.
